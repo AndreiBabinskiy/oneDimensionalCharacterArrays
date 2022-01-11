@@ -1,0 +1,2 @@
+# oneDimensionalCharacterArrays
+Одномерные символьные массивы
